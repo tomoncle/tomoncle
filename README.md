@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-✨ Web and cloud computing developer．Java, Python, Golang enthusiasts. ✨
+✨ WE CAN CODE, WE CAN RUN. ✨
+---
 ![](https://tomoncle.github.io/images/about/2.jpg)
 
 <!--
