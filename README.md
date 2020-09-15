@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-* 😄 I’m currently working on Web and cloud computing .
+✨ Web and cloud computing developer．Java, Python, Golang enthusiasts. ✨
+![](https://tomoncle.github.io/images/about/2.jpg)
 
 <!--
 **tomoncle/tomoncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
