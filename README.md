@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-✨ WE CAN CODE, WE CAN RUN. ✨
----
-![](https://tomoncle.github.io/images/about/2.jpg)
+✨ Sometimes I'm busy and sometimes I'm not. ✨
 
 <!--
 **tomoncle/tomoncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
